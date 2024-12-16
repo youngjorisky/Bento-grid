@@ -1,0 +1,193 @@
+    body {
+    font-family: "DM Sans", sans-serif;
+    background-color: hsla(0, 2%, 70%, 0.2);
+    }
+
+    .main-container {
+        padding: 10px;
+    }
+
+    .container-1 {
+        border: 1px solid transparent;
+        background-color: hsl(256, 67%, 59%);
+        padding: 20px;
+        border-radius: 10px;
+        text-align: center;
+        color: #fff;
+        margin-bottom: 30px;
+    }
+    .container-1 h2 {
+        margin: 0px;
+        font-size: 35px;
+        font-weight: 500;
+    }
+    .container-1 img {
+        width: 160px;
+    }
+    .h2-class {
+        margin-bottom: 15px;
+    }
+    .reviews{
+        opacity: 0.8;
+    }
+    .times {
+        color: hsl(39, 100%, 71%);
+    }
+
+    .container-2 {
+        background-color: hsl(0, 0%, 100%);
+        padding: 15px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        border: 1px solid white;
+        border-radius: 10px;
+        margin-top: 20px;
+        margin-bottom: 30px;
+    }
+    .container-2 h3 {
+        margin: 0px;
+        font-weight: 600;
+        font-size: 22.5px;
+        line-height: 1;
+    }
+    .container-2 img{
+        width: 335px;
+        margin-bottom: 15px;
+    }
+
+    .container-3 {
+        background-color:hsl(39, 100%, 71%);
+        padding: 15px;
+        padding-bottom: 0px;
+        position: relative;
+        overflow: hidden;
+        height: 185px;
+        border-radius: 10px;
+        margin-bottom: 30px;
+    }
+    .container-3 img{
+        width: 200px;
+        margin-top: 10px;
+        position: absolute;
+    }
+    .container-3 h3{
+        margin: 0px;
+        font-weight: 600;
+        font-size: 22.5px;
+        line-height: 1;
+    }
+
+    .container-4 {
+        border: 1px solid transparent;
+        background-color: hsl(254, 88%, 90%);
+        padding: 20px;
+        border-radius: 10px;
+        text-align: center;
+        margin-bottom: 30px;
+    }
+    .container-4 h3{
+        margin: 0px;
+        font-weight: 600;
+        font-size: 22.5px;
+    }
+    .container-4 img{
+        width: 300px;
+        margin-top: 10px;
+        margin-top: 20px;
+        margin-bottom: 20px;
+    }
+    .container-4 p {
+        margin-top: 0px;
+        font-size: 19px;
+    }
+
+    .container-5 {
+        border: 1px solid transparent;
+        background-color: hsl(256, 67%, 59%);
+        padding: 20px;
+        border-radius: 10px;
+        text-align: center;
+        color: #fff;
+        margin-bottom: 30px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    .container-5 img {
+        width: 200px;
+        margin-bottom: 40px;
+    }
+    .container-5 h2 {
+        margin: 0px;
+        font-weight: 500;
+        line-height: 1;
+    }
+
+    .container-6 {
+        background-color: hsl(0, 0%, 100%);
+        padding: 15px;
+        border: 1px solid white;
+        border-radius: 10px;
+        margin-bottom: 30px;
+    }
+    .container-6 img {
+        width: 190px;
+        margin-top: 10px;
+    }
+    .container-6 h1 {
+        margin: 0px;
+        font-size: 45px;
+        font-weight: 500;
+    }
+    .container-6 p {
+        font-size: 19px;
+    }
+
+    .container-7 {
+        background-color: hsl(31, 66%, 93%);
+        padding: 20px;
+        border: 1px solid transparent;
+        border-radius: 10px;
+        margin-bottom: 30px;
+        border-radius: 10px;
+    }
+    .container-7 img {
+        width: 190px;
+        margin-top: 20px;
+    }
+    .container-7 h2 {
+        margin: 0px;
+        font-weight: 500;
+        line-height: 1;
+    }
+    .container-7 h2 em {
+        color: hsl(256, 67%, 59%);
+    }
+
+    .container-8 {
+        background-color: hsl(39, 100%, 71%);
+        padding: 20px;
+        border: 1px solid transparent;
+        border-radius: 10px;
+        margin-bottom: 30px;
+        border-radius: 10px;
+    }
+    .container-8 img {
+        width: 190px;
+        margin-top: 20px;
+    }
+    .container-8 h2 {
+        margin: 0px;
+        font-weight: 500;
+        line-height: 1;
+    }
+
+.attribution {
+     font-size: 11px;
+    text-align: center; 
+}
+    
+.attribution a {
+     color: hsl(228, 45%, 44%); 
+}
